@@ -75,4 +75,6 @@ contentView.addView(splashView, param);
 
 剩下的就是处理缓存、定时器、Dismiss 动画、显示隐藏状态栏，ActionBar 的问题了。
 
+详情见博文：[SplashView-一行代码解决闪屏页-广告页-Android-篇](http://jkyeo.com/2016/07/10/SplashView-一行代码解决闪屏页-广告页-Android-篇/)
+
 对应 iOS(Swift) 版本在这里: [SplashView-一行代码解决闪屏页-广告页-iOS-Swift-篇](http://jkyeo.com/2016/07/10/SplashView-一行代码解决闪屏页-广告页-iOS-Swift-篇/)
