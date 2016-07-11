@@ -12,9 +12,9 @@
 
 好了，先看看效果：
 
-![geminiMXB48Tjkyeo07102016200452.mp4.gif](http://ww4.sinaimg.cn/large/006tNc79gw1f5p3fx3mlwg315o0nfgzr.gif)
+![Default SplashView Demo](http://ww4.sinaimg.cn/large/006tNc79gw1f5p3fx3mlwg315o0nfgzr.gif)
 
-![geminiMXB48Tjkyeo07102016200339.mp4.gif](http://ww2.sinaimg.cn/large/006tNbRwgw1f5p2r46gzug315o0nfkjm.gif)
+![Normal SplashView Demo](http://ww2.sinaimg.cn/large/006tNbRwgw1f5p2r46gzug315o0nfkjm.gif)
 
 在 Activity 上显示 SplashView， 需要注意的是要在 Activity setContentView(int viewId) 之后调用:
 
