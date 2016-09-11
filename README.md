@@ -63,7 +63,7 @@ SplashView.updateSplashData(this, "http://ww2.sinaimg.cn/large/72f96cbagw1f5mxjt
 
 说说原理，其实很简单。如图选中 FrameLayout 下唯一的 ChildView 是我们自定义的通过 setContentView 设置的 View。那么我们只需要讲 SplashView 作为这个 FrameLayout 的 ChildView 覆盖在最上层即可。合适的时候 remove 实现 Dismiss。
 
-![QQ20160710-0@2x.png](http://ww1.sinaimg.cn/large/006tNc79gw1f5p4jjodf5j31i610kk3c.jpg)
+![](http://ww1.sinaimg.cn/large/006tNc79gw1f5p4jjodf5j31i610kk3c.jpg)
 
 核心代码：
 
