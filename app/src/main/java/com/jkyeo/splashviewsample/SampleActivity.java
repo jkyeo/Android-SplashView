@@ -8,7 +8,6 @@ import android.widget.Toast;
 import com.jkyeo.splashview.SplashView;
 
 public class SampleActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
