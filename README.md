@@ -8,7 +8,7 @@
 - 倒计时 Dismiss View，主动跳过 Dissmiss View
 - 本地没有缓存时，显示默认图片或者不显示 SplashView
 
-<!-- more --> 
+<!-- more -->
 
 好了，先看看效果：
 
